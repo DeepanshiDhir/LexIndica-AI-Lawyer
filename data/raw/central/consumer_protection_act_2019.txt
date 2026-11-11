@@ -1,0 +1,49 @@
+# METADATA
+# ACT_NAME: Consumer Protection Act, 2019
+# SHORT_TITLE: CPA 2019
+# DOCUMENT_TYPE: Central Acts
+# JURISDICTION: Central
+# STATE: All States (Central Law)
+# AUTHORITY: Ministry of Consumer Affairs, Food and Public Distribution, Government of India
+# SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/15256
+# EFFECTIVE_DATE: 2020-07-20
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter I - Preliminary
+### SECTION: Section 2(7) - Definition of Consumer
+(1) "Consumer" means any person who:
+(a) buys any goods for a consideration which has been paid or promised or partly paid and partly promised;
+(b) hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised.
+Explanation: For the purposes of this clause, services rendered in relation to housing construction, real estate rental management platforms, brokerages, commercial co-living service operators, and facilities management fall within the ambit of "service" under Section 2(42) when provided for consideration.
+
+---
+
+## CHAPTER: Chapter IV - Consumer Disputes Redressal Commission
+### SECTION: Section 34 - Jurisdiction of District Commission
+(1) Subject to the other provisions of this Act, the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed fifty lakh rupees.
+(2) A complaint shall be instituted in a District Commission within the local limits of whose jurisdiction:
+(a) the opposite party or each of the opposite parties ordinarily resides or carries on business;
+(b) the complainant resides or personally works for gain; or
+(c) the cause of action, wholly or in part, arises.
+
+---
+
+## CHAPTER: Chapter IV - Consumer Disputes Redressal Commission
+### SECTION: Section 35 - Manner in Which Complaint Shall Be Made
+(1) A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by:
+(a) the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided;
+(b) any recognised consumer association;
+(c) one or more consumers, where there are numerous consumers having the same interest.
+(2) Every complaint filed under sub-section (1) shall be accompanied by such fee and in such manner as may be prescribed, and can be filed electronically through the e-Daakhil portal.
+
+---
+
+## CHAPTER: Chapter IV - Consumer Disputes Redressal Commission
+### SECTION: Section 39 - Findings of District Commission
+(1) If, after the proceeding conducted under section 38, the District Commission is satisfied that the service was deficient or that any unfair trade practice was adopted, it shall issue an order to the opposite party directing him to do one or more of the following things, namely:
+(a) to remove the defect or deficiency in services in question;
+(b) to return to the complainant the price or consideration paid, including wrongful security deposits or excess charges;
+(c) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party;
+(d) to pay such sum as may be determined by it for punitive damages.

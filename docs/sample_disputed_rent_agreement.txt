@@ -1,0 +1,49 @@
+RESIDENTIAL TENANCY / LEAVE AND LICENSE AGREEMENT
+(FOR LEGAL AUDIT & VERIFICATION TESTING)
+
+This Agreement is made on this 1st day of January 2024 at Bengaluru, Karnataka:
+
+BETWEEN:
+Mr. Anand Swamy, hereinafter called the "LANDLORD" (which expression shall include his legal heirs, executors, and assigns) of the ONE PART;
+
+AND:
+Mr. Rohit Sen, hereinafter called the "TENANT" (which expression shall include his legal heirs and permitted assigns) of the OTHER PART.
+
+WHEREAS the Landlord is the sole and absolute owner of Residential Premises situated at Flat No. 301, Silver Heights, Koramangala, Bengaluru - 560034.
+
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS:
+
+1. DURATION: The tenancy shall be for an initial period of 11 months commencing from 1st January 2024.
+
+2. MONTHLY RENT: The Tenant agrees to pay a monthly rent of Rs. 30,000/- (Rupees Thirty Thousand only), payable on or before the 5th day of each calendar month.
+
+3. SECURITY DEPOSIT [ILLEGAL CLAUSE #1]:
+   The Tenant has deposited an interest-free refundable security deposit of Rs. 3,00,000/- (Rupees Three Lakhs only, equivalent to TEN MONTHS' RENT) with the Landlord.
+   *Legal Issue: Section 10(1) of the Model Tenancy Act, 2021 caps residential security deposits at a maximum of TWO MONTHS' rent.*
+
+4. RIGHT OF ENTRY & INSPECTION [ILLEGAL CLAUSE #2]:
+   The Landlord or his agents reserve the unrestricted right to enter and inspect the premises at any hour of the day or night without prior notice to the Tenant.
+   *Legal Issue: Section 13 of Model Tenancy Act, 2021 mandates at least 24 hours prior written notice, and inspection is restricted between 7:00 AM and 8:00 PM.*
+
+5. REPAIRS & PAINTING DEDUCTIONS [ILLEGAL CLAUSE #3]:
+   Upon termination of the tenancy, the Landlord shall unilaterally deduct Rs. 50,000/- from the security deposit for full apartment repainting and general renovation, regardless of actual condition or normal wear and tear.
+   *Legal Issue: Section 108(m) of Transfer of Property Act, 1882 & Suresh Kumar v. Bhupinder Singh strictly prohibit deductions for normal wear and tear from ordinary living.*
+
+6. DISCONNECTION OF UTILITIES [ILLEGAL CLAUSE #4]:
+   In the event of a delay in rent payment of more than 5 days, the Landlord shall have the immediate right to disconnect the tenant's water supply and electricity connection.
+   *Legal Issue: Section 20 of Model Tenancy Act, 2021 explicitly prohibits withholding essential services; violators face immediate restoration orders and statutory penalties.*
+
+7. SUMMARY FORCIBLE EVICTION [ILLEGAL CLAUSE #5]:
+   If the Landlord requires the property for personal reasons, the Tenant agrees to vacate within 48 hours notice. Failure to vacate gives the Landlord the right to change locks and place the Tenant's belongings outside the premises without approaching any court.
+   *Legal Issue: Section 21 of Model Tenancy Act, Section 106 of Transfer of Property Act (15-day notice), and Supreme Court ruling in Ramesh Chand Ardawatiya v. Anil Panjwani hold extra-judicial eviction by force/lockout to be strictly illegal and criminal trespass.*
+
+8. DEPOSIT REFUND TIMELINE [ILLEGAL CLAUSE #6]:
+   The Landlord shall refund the security deposit within 6 months after the tenant has handed over possession.
+   *Legal Issue: Section 10(3) of Model Tenancy Act, 2021 requires deposit refund within ONE MONTH of vacating.*
+
+IN WITNESS WHEREOF the parties hereto have signed this agreement:
+
+_________________________                  _________________________
+LANDLORD (Anand Swamy)                     TENANT (Rohit Sen)
+
+Witness 1: ________________               Witness 2: ________________

@@ -1,0 +1,35 @@
+# METADATA
+# ACT_NAME: Practical Legal Guidance on Indian Tenancy Disputes
+# SHORT_TITLE: Tenancy Practical Guide
+# DOCUMENT_TYPE: Official Legal Guidance
+# JURISDICTION: Central
+# STATE: All States
+# AUTHORITY: Ministry of Housing and Urban Affairs & State Legal Services Authorities (NALSA)
+# SOURCE_URL: https://nalsa.gov.in/
+# EFFECTIVE_DATE: 2023-01-01
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter I - Security Deposit Recovery Step-by-Step
+### SECTION: Guidance - Standard Legal Process for Security Deposit Recovery
+When a landlord unlawfully refuses to refund a security deposit:
+Step 1: Written Communication and Handover Proof. Ensure you have clear proof of vacating the property (keys handover receipt, email acknowledgment, photos/videos of the cleaned apartment on move-out day, utility bill clearance receipts).
+Step 2: Formal Legal Demand Notice. Serve a formal legal notice of demand giving the landlord a specific cure period (typically 15 days) to refund the balance deposit. Cite Section 10 of Model Tenancy Act, Section 108 of Transfer of Property Act, and high court precedents on normal wear and tear.
+Step 3: Forum Selection for Legal Action:
+- If your State has implemented the Model Tenancy Act / Rent Authority (e.g., UP, Andhra Pradesh, Tamil Nadu, Assam): File an application before the Rent Authority for recovery of security deposit with statutory interest.
+- Under Consumer Protection Act, 2019: If renting was managed through a corporate co-living provider, rental broker, or managed platform (such as NestAway, Stanza Living, Colive), file a consumer complaint on the e-Daakhil portal under Section 35 for deficiency in service and unfair trade practice.
+- Civil Suit for Recovery: In general tenancy matters under Transfer of Property Act, file a Summary Suit under Order XXXVII of the Code of Civil Procedure (CPC) for liquidated debt recovery in the competent civil court.
+
+---
+
+## CHAPTER: Chapter II - Dealing with Unlawful Eviction Threats and Harassment
+### SECTION: Guidance - Urgent Remedies for Threatened or Forcible Eviction
+1. No landlord has the legal power to physically throw out a tenant, throw away belongings, change locks, or hire bouncers/thugs to threaten the tenant.
+2. If landlord cuts off water or electricity: Immediately file an urgent petition under Section 20 of Model Tenancy Act or Section 45 of Delhi Rent Control Act or Section 29 of Maharashtra Rent Control Act before the Rent Controller/Rent Authority for emergency reconnection within 24 hours.
+3. Police Complaint for Criminal Intimidation: Changing locks, locking the tenant out, or threatening physical harm constitutes criminal offenses under Bharatiya Nyaya Sanhita, 2023 (BNS) / Indian Penal Code (IPC):
+- Section 329 BNS (Criminal Trespass) / Section 441 IPC
+- Section 351 BNS (Criminal Intimidation) / Section 506 IPC
+- Section 126 BNS (Wrongful Restraint) / Section 339 IPC
+A police complaint (or dial 112) can be made immediately for breach of peace and criminal trespass.
+4. Civil Injunction: File a civil suit for permanent and temporary injunction under Order XXXIX Rules 1 & 2 of CPC to restrain the landlord from evicting without due process of law.

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.python/
+bin/
+
+# Environment variables
+.env
+.env.local
+
+# Indexes and vector stores (can be rebuilt)
+data/indexes/*.faiss
+data/indexes/*.pkl
+data/indexes/*.json
+data/processed/*.json
+
+# Testing and evaluation
+.pytest_cache/
+.coverage
+htmlcov/
+evaluation/reports/*.json
+evaluation/reports/*.md
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store

@@ -1,0 +1,52 @@
+# METADATA
+# ACT_NAME: Delhi Rent Control Act, 1958
+# SHORT_TITLE: DRCA 1958
+# DOCUMENT_TYPE: State Laws
+# JURISDICTION: Delhi
+# STATE: National Capital Territory of Delhi
+# AUTHORITY: Parliament of India / Delhi Rent Controller
+# SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/1517
+# EFFECTIVE_DATE: 1959-02-09
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter II - Rent and Standard Rent
+### SECTION: Section 6A - Revision of Rent
+Notwithstanding anything contained in this Act, the standard rent, or, where no standard rent has been fixed under this Act, the agreed rent may be increased by ten per cent every three years by giving written notice to the tenant.
+
+---
+
+## CHAPTER: Chapter III - Control of Eviction of Tenants
+### SECTION: Section 14 - Protection of Tenant Against Eviction
+(1) Notwithstanding anything to the contrary contained in any other law or contract, no order or decree for the recovery of possession of any premises shall be made by any court or Controller in favour of the landlord against a tenant:
+Provided that the Controller may, on an application made to him in the prescribed manner, make an order for the recovery of the possession of the premises on one or more of the following grounds only, namely:
+(a) that the tenant has neither paid nor tendered the whole of the arrears of the rent legally recoverable from him within two months of the date on which a notice of demand for the arrears of rent has been served on him by the landlord in the manner provided in section 106 of the Transfer of Property Act, 1882;
+(b) that the tenant has, on or after the 9th day of June, 1952, sub-let, assigned or otherwise parted with the possession of the whole or any part of the premises without obtaining the consent in writing of the landlord;
+(c) that the tenant has used the premises for a purpose other than that for which they were let;
+(e) that the premises let for residential purposes are required bona fide by the landlord for occupation as a residence for himself or for any member of his family dependent on him, if he is the owner thereof, or for any person for whose benefit the premises are held and that the landlord or such person has no other reasonably suitable residential accommodation.
+
+---
+
+## CHAPTER: Chapter IV - Deposit of Rent and Receipts
+### SECTION: Section 26 - Receipt to be Given for Rent Paid
+(1) Every tenant shall pay rent within the time fixed by contract or in the absence of such contract, by the fifteenth day of the month next following the month for which it is payable.
+(2) Every tenant who makes a payment on account of rent to his landlord shall be entitled to obtain forthwith from the landlord or his authorised agent a written receipt for the amount paid to him, signed by the landlord or his authorised agent.
+(3) If the landlord or his authorised agent, without reasonable cause, refuses or neglects to deliver to the tenant a receipt referred to in sub-section (2), the Controller may, on an application made to him in this behalf by the tenant within two months from the date of payment and after hearing the landlord, direct the landlord to pay to the tenant, by way of damages, such sum not exceeding double the amount of rent paid by the tenant.
+
+---
+
+## CHAPTER: Chapter IV - Deposit of Rent and Receipts
+### SECTION: Section 27 - Deposit of Rent with the Controller
+(1) Where the landlord does not accept any rent tendered by the tenant within the time referred to in section 26 or where there is a bona fide doubt as to the person or persons to whom the rent is payable, the tenant may deposit such rent with the Controller in the prescribed manner.
+(2) The deposit shall be accompanied by an application by the tenant containing the full particulars of the premises, the period for which the rent is deposited, and the grounds on which the deposit is made.
+(3) No eviction proceedings on grounds of non-payment can succeed against a tenant who regularly deposits rent with the Controller under this section.
+
+---
+
+## CHAPTER: Chapter VI - Penalties and Miscellaneous
+### SECTION: Section 45 - Cutting Off or Withholding Essential Supply or Service
+(1) No landlord shall, without just and sufficient cause, cut off or withhold any essential supply or service enjoyed by the tenant in respect of the premises let to him.
+(2) If a landlord cuts off or withholds any essential supply or service in contravention of the provisions of sub-section (1), the tenant may make an application to the Controller complaining of such contravention.
+(3) If the Controller is satisfied that the essential supply or service was cut off or withheld by the landlord with a view to compel the tenant to vacate the premises or to pay an enhanced rent, the Controller may make an order directing the landlord to restore the supply or service immediately, pending the inquiry.
+(4) The Controller may also direct the landlord to pay a compensation to the tenant, and in case of frivolous application, may direct the tenant to pay compensation to the landlord.

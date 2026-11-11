@@ -1,0 +1,107 @@
+# METADATA
+# ACT_NAME: Model Tenancy Act, 2021
+# SHORT_TITLE: MTA 2021
+# DOCUMENT_TYPE: Central Acts
+# JURISDICTION: Central
+# STATE: All States (Model Legislation)
+# AUTHORITY: Ministry of Housing and Urban Affairs, Government of India
+# SOURCE_URL: https://mohua.gov.in/upload/uploadfiles/files/Model_Tenancy_Act_English.pdf
+# EFFECTIVE_DATE: 2021-06-02
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter II - Tenancy
+### SECTION: Section 4 - Tenancy Agreement
+(1) Notwithstanding anything contained in this Act or any other law for the time being in force, no person shall, after the commencement of this Act, let or take on rent any premises except by an agreement in writing.
+(2) Every tenancy agreement entered into between the landlord and the tenant shall be in the form specified in the First Schedule and shall be jointly informed by the landlord and the tenant to the Rent Authority in the form specified in the Second Schedule within a period of two months from the date of tenancy agreement.
+(3) Where the landlord and the tenant fail to jointly inform the execution of the tenancy agreement, the landlord and tenant shall separately inform the execution of tenancy agreement to the Rent Authority within a period of one month from the expiry of the period specified in sub-section (2).
+(4) The Rent Authority after receiving information about the execution of tenancy agreement shall issue a unique identification number to the parties and upload details on its official website.
+
+---
+
+## CHAPTER: Chapter III - Rent
+### SECTION: Section 8 - Revision of Rent
+(1) The revision of rent between the landlord and the tenant shall be in accordance with the terms of the tenancy agreement.
+(2) Where the landlord wishes to revise the rent, the landlord shall give a notice in writing to the tenant at least three months before the revised rent becomes due.
+(3) Where the tenant fails to give notice of termination of tenancy before the date from which the revised rent becomes due, the tenant shall be deemed to have accepted the revised rent.
+
+---
+
+## CHAPTER: Chapter III - Rent
+### SECTION: Section 9 - Rent Authority to determine revised rent
+(1) Where the landlord has incurred expenditure for improvement, addition or structural alteration in the premises, which does not include repairs, the landlord may increase the rent by an amount agreed upon between the landlord and the tenant.
+(2) Any dispute arising under sub-section (1) shall be decided by the Rent Authority upon an application made by either party.
+
+---
+
+## CHAPTER: Chapter III - Rent
+### SECTION: Section 10 - Security Deposit
+(1) The security deposit to be paid by the tenant in advance shall:
+(a) not exceed two months' rent, in case of residential premises; and
+(b) not exceed six months' rent, in case of non-residential premises.
+(2) The security deposit shall be refunded to the tenant on vacating premises after making due deduction of any liability of the tenant, such as unpaid rent, utility bills, or proven damage beyond reasonable wear and tear.
+(3) The landlord shall refund the remaining balance of the security deposit within one month of vacating the premises.
+(4) Any unlawful withholding or deduction from the security deposit without proper justification or proof of actual damage shall entitle the tenant to claim interest and compensation before the Rent Authority.
+
+---
+
+## CHAPTER: Chapter IV - Rights and Responsibilities of Landlord and Tenant
+### SECTION: Section 13 - Entry of premises
+(1) A landlord or the property manager may enter premises let out on rent after serving a notice in writing or through electronic medium to the tenant at least twenty-four hours before the time of entry under the following circumstances:
+(a) to carry out repair or inspection or work on the premises;
+(b) to carry out an inspection of the premises for the purpose of determining whether the premises are in a habitable condition;
+(c) for any other reasonable cause specified in the tenancy agreement.
+(2) The notice shall specify the reason for entry, the day and time of entry, and the entry shall not be before 7:00 AM or after 8:00 PM.
+
+---
+
+## CHAPTER: Chapter IV - Rights and Responsibilities of Landlord and Tenant
+### SECTION: Section 15 - Maintenance of premises
+(1) The landlord and the tenant shall keep the premises in as good condition as at the commencement of the tenancy, except for normal wear and tear.
+(2) The landlord shall be responsible for structural repairs, whitewashing, external painting, and major plumbing defects as specified in the Second Schedule.
+(3) The tenant shall be responsible for routine day-to-day maintenance, replacement of light bulbs, cleaning of fixtures, and minor repairs resulting from tenant misuse.
+(4) In case of refusal by either party to carry out repairs within the agreed time upon notice, the aggrieved party may get the repairs done and deduct or recover the reasonable expense as determined by the Rent Authority.
+
+---
+
+## CHAPTER: Chapter IV - Rights and Responsibilities of Landlord and Tenant
+### SECTION: Section 20 - Withholding essential supply or service
+(1) No landlord or property manager shall, either by himself or through any person, withhold or sever any essential supply or service in the premises occupied by the tenant, including water, electricity, piped gas, sanitation, staircase lighting, or lift operations.
+(2) Where a landlord withholds or severs any essential supply or service without just and sufficient cause, the tenant may make an application to the Rent Authority.
+(3) The Rent Authority may examine the complaint and pass an interim order directing the landlord to immediately restore the essential supply or service within twenty-four hours, and may impose a compensation or penalty on the defaulting party.
+
+---
+
+## CHAPTER: Chapter V - Eviction and Recovery of Possession
+### SECTION: Section 21 - Protection against eviction
+(1) A tenant shall not be evicted during the continuance of tenancy agreement except on an order of the Rent Court made on an application by the landlord on the following grounds:
+(a) the tenant has failed to pay the agreed rent and arrears for two consecutive months within one month of notice demanding payment;
+(b) the tenant has parted with the possession of whole or any part of the premises without written consent of the landlord;
+(c) the tenant has caused substantial damage to the premises impairing its utility or value;
+(d) the tenant has committed acts amounting to nuisance or annoyance to neighbours;
+(e) the landlord genuinely requires the premises for own occupation or demolition/reconstruction.
+(2) No landlord shall physically evict, throw out belongings, or lock out a tenant without a decree or order of the competent Rent Court. Forcible extra-judicial eviction is illegal.
+
+---
+
+## CHAPTER: Chapter V - Eviction and Recovery of Possession
+### SECTION: Section 22 - Recovery of possession for occupation
+(1) Where a landlord requires the premises for residential use for himself or family members, the landlord may file an application before the Rent Court.
+(2) The tenant shall be given adequate opportunity to defend and present evidence before an order of recovery of possession is passed.
+
+---
+
+## CHAPTER: Chapter V - Eviction and Recovery of Possession
+### SECTION: Section 23 - Compensation for failure to vacate
+(1) Where a tenant fails to vacate the premises on expiration of the period of tenancy or termination of tenancy by notice, the tenant shall be liable to pay enhanced compensation:
+(a) twice the monthly rent for the first two months; and
+(b) four times the monthly rent thereafter until the tenant vacates or delivers possession.
+
+---
+
+## CHAPTER: Chapter VI - Adjudication of Disputes
+### SECTION: Section 30 - Rent Court and Rent Tribunal
+(1) The State Government shall designate Rent Courts and Rent Tribunals to adjudicate tenancy disputes.
+(2) No civil court shall have jurisdiction to entertain any suit or proceeding in so far as it relates to the provisions of this Act.
+(3) The Rent Court shall endeavour to dispose of applications within sixty days of service of notice.

@@ -1,0 +1,65 @@
+# METADATA
+# ACT_NAME: Transfer of Property Act, 1882
+# SHORT_TITLE: TPA 1882
+# DOCUMENT_TYPE: Central Acts
+# JURISDICTION: Central
+# STATE: All States (Central Law)
+# AUTHORITY: Ministry of Law and Justice, Government of India / Legislative Department
+# SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/2338
+# EFFECTIVE_DATE: 1882-07-01
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 105 - Lease Defined
+A lease of immovable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value, to be rendered periodically or on specified occasions to the transferor by the transferee, who accepts the transfer on such terms. The transferor is called the lessor, the transferee is called the lessee, the price is called the premium, and the money, share, service or other thing to be so rendered is called the rent.
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 106 - Duration of Certain Leases in Absence of Written Contract or Local Usage
+(1) In the absence of a contract or local law or usage to the contrary, a lease of immovable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, terminable, on the part of either lessor or lessee, by six months' notice; and a lease of immovable property for any other purpose (including residential or commercial tenancies) shall be deemed to be a lease from month to month, terminable, on the part of either lessor or lessee, by fifteen days' notice.
+(2) Every notice under sub-section (1) must be in writing, signed by or on behalf of the person giving it, and either be sent by post to the party who is intended to be bound by it or be tendered or delivered personally to such party, or to one of his family or servants at his residence, or affixed to a conspicuous part of the property.
+(3) A notice under sub-section (1) shall not be deemed invalid merely because the period mentioned therein falls short of the period specified under that sub-section, where a suit or proceeding is filed after the expiry of the period specified under that sub-section.
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 107 - Leases How Made
+A lease of immovable property from year to year, or for any term exceeding one year or reserving a yearly rent, can be made only by a registered instrument. All other leases of immovable property may be made either by a registered instrument or by oral agreement accompanied by delivery of possession. Where a lease is made by a registered instrument, that instrument or, where there are more instruments than one, each such instrument shall be executed by both the lessor and the lessee.
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 108 - Rights and Liabilities of Lessor and Lessee
+In the absence of a contract or local usage to the contrary, the lessor and the lessee of immovable property possess the rights and are subject to the liabilities mentioned in the rules that follow:
+(A) Rights and Liabilities of the Lessor:
+(a) The lessor is bound to disclose to the lessee any material defect in the property, with reference to its intended use, of which the lessor is aware, and the lessee is not aware and could not with ordinary care discover.
+(b) The lessor is bound on the lessee's request to put him in possession of the property.
+(c) The lessor shall be deemed to contract with the lessee that, if the lessee pays the rent reserved by the lease and performs the contracts binding on the lessee, he may hold the property during the time limited by the lease without interruption (covenant of quiet enjoyment).
+
+(B) Rights and Liabilities of the Lessee:
+(f) If the lessor neglects to make, within a reasonable time after notice, any repairs which he is bound to make to the property, the lessee may make the same himself, and deduct the expense of such repairs with interest from the rent, or otherwise recover it from the lessor.
+(m) The lessee is bound to keep, and on the termination of the lease to restore, the property in as good condition as it was in at the time when he was put in possession, subject only to the changes caused by reasonable wear and tear or irresistible force.
+(q) On the determination of the lease, the lessee is bound to put the lessor into possession of the property.
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 111 - Determination of Lease
+A lease of immovable property determines:
+(a) by the efflux of the time limited thereby;
+(b) where such time is limited conditionally on the happening of some event, by the happening of such event;
+(c) by the termination of the lessor's interest in the property;
+(d) in case the interests of the lessee and the lessor in the whole of the property become vested at the same time in one person in the same right;
+(e) by express surrender, that is to say, in case the lessee yields up his interest under the lease to the lessor, by mutual agreement between them;
+(f) by implied surrender;
+(g) by forfeiture, that is to say, in case the lessee breaks an express condition which provides that, on breach thereof, the lessor may re-enter; or in case the lessee renounces his character as such by setting up a title in a third person or by claiming title in himself;
+(h) on the expiration of a notice to determine the lease, or to quit, or of intention to quit, the property leased, duly given by one party to the other.
+
+---
+
+## CHAPTER: Chapter V - Of Leases of Immovable Property
+### SECTION: Section 114 - Relief Against Forfeiture for Non-Payment of Rent
+Where a lease of immovable property has determined by forfeiture for non-payment of rent, and the lessor sues to eject the lessee, if, at the hearing of the suit, the lessee pays or tenders to the lessor the rent in arrear, together with interest thereon and his full costs of the suit, or gives such security as the Court thinks sufficient for making such payment within fifteen days, the Court may, in lieu of making a decree for ejectment, pass an order relieving the lessee against the forfeiture; and thereupon the lessee shall hold the property leased as if the forfeiture had not occurred.

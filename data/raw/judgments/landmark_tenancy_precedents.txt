@@ -1,0 +1,45 @@
+# METADATA
+# ACT_NAME: Judicial Precedents on Tenancy and Landlord-Tenant Relations
+# SHORT_TITLE: Tenancy Landmark Case Laws
+# DOCUMENT_TYPE: Court Judgments
+# JURISDICTION: Central
+# STATE: All States (Supreme Court & High Court Precedents)
+# AUTHORITY: Supreme Court of India / High Courts of India
+# SOURCE_URL: https://main.sci.gov.in/judgments
+# EFFECTIVE_DATE: 2024-01-01
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter I - Unlawful Dispossession and Due Process
+### SECTION: Precedent - Ramesh Chand Ardawatiya v. Anil Panjwani (2003) 7 SCC 350
+COURT: Supreme Court of India
+BENCH: R.C. Lahoti and Ashok Bhan, JJ.
+RATIO DECIDENDI:
+A person in peaceful possession of property cannot be dispossessed by the owner or landlord by use of force or without recourse to law. Even if a tenant's lease has expired or the tenancy has terminated, the landlord cannot take the law into their own hands to throw out the tenant, change locks, or cutoff utilities. The landlord is bound to recover possession through a competent civil court or Rent Court by following due process of law. A tenant who is forcibly dispossessed is entitled to immediate restoration of possession under Section 6 of the Specific Relief Act, 1963.
+
+---
+
+## CHAPTER: Chapter I - Unlawful Dispossession and Due Process
+### SECTION: Precedent - Bishan Das & Ors. v. State of Punjab AIR 1961 SC 1570
+COURT: Supreme Court of India (Constitution Bench)
+BENCH: S.K. Das, J.L. Kapur, M. Hidayatullah, J.C. Shah, and J.R. Mudholkar, JJ.
+RATIO DECIDENDI:
+The State or any private individual cannot arbitrarily evict a person in settled possession of property without authority of law. Dispossessing someone from property by executive fiat or force without obtaining a lawful eviction decree from a competent court is a violation of the rule of law and constitutional protection under Article 300A of the Constitution of India.
+
+---
+
+## CHAPTER: Chapter II - Security Deposit Refund and Unlawful Deductions
+### SECTION: Precedent - Suresh Kumar v. Bhupinder Singh (Delhi High Court)
+COURT: High Court of Delhi
+RATIO DECIDENDI:
+A landlord has no legal right to withhold a tenant's security deposit upon the tenant handing over vacant and peaceful possession. Any deduction made from the security deposit must be substantiated with tangible proof of damage attributable directly to the tenant's negligence or willful misuse.
+Normal wear and tear resulting from ordinary habitation (such as minor scuffs on walls, aging of paint, minor plumbing deterioration due to age) is the natural liability of the property owner and cannot be deducted from the security deposit. If a landlord fails to return the deposit within thirty days or makes arbitrary deductions without presenting invoices and repair estimates, the tenant is entitled to interest at nine to twelve per cent per annum and litigation costs.
+
+---
+
+## CHAPTER: Chapter II - Security Deposit Refund and Unlawful Deductions
+### SECTION: Precedent - Nand Lal v. State of Haryana & Ors.
+COURT: High Court of Punjab and Haryana
+RATIO DECIDENDI:
+The burden of proving damage beyond normal wear and tear lies strictly on the landlord who asserts it. In the absence of a joint inspection report signed by both parties at the time of handing over possession, unilateral deductions made by the landlord are deemed arbitrary and legally unsustainable. The tenant is entitled to a full refund together with damages.

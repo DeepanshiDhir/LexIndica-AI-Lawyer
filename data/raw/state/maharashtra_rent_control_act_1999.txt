@@ -1,0 +1,43 @@
+# METADATA
+# ACT_NAME: Maharashtra Rent Control Act, 1999
+# SHORT_TITLE: MRCA 1999
+# DOCUMENT_TYPE: State Laws
+# JURISDICTION: Maharashtra
+# STATE: Maharashtra
+# AUTHORITY: Maharashtra State Legislature / Government of Maharashtra
+# SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/2234
+# EFFECTIVE_DATE: 2000-03-31
+# LANGUAGE: English
+
+---
+
+## CHAPTER: Chapter III - Relief Against Forfeiture and Recovery of Possession
+### SECTION: Section 15 - No Ejectment Ordinarily to be Made If Tenant Pays Standard Rent
+(1) A landlord shall not be entitled to the recovery of possession of any premises so long as the tenant pays, or is ready and willing to pay, the amount of the standard rent and permitted increases, if any, and observes and performs the other conditions of the tenancy, in so far as they are consistent with the provisions of this Act.
+(2) No suit for recovery of possession shall be instituted by a landlord against a tenant on the ground of non-payment of the standard rent or permitted increases due, until the expiration of ninety days next after notice in writing demanding the payment of the incoming rent or permitted increases has been served upon the tenant in the manner provided in section 106 of the Transfer of Property Act, 1882.
+(3) No decree for eviction shall be passed by the Court in any suit for recovery of possession on the ground of arrears of rent, if, on the first day of hearing of the suit or within such further time as the Court may allow, the tenant pays or tenders in Court the standard rent and permitted increases then due, together with simple interest at nine per cent per annum and the costs of the suit.
+
+---
+
+## CHAPTER: Chapter IV - Recovery of Possession in Other Cases
+### SECTION: Section 24 - Landlord Entitled to Recover Possession of Premises Given on Licence
+(1) Notwithstanding anything contained in this Act, a licensee in possession or occupation of premises given to him on licence for residence shall deliver possession of such premises to the landlord on expiry of the period of licence; and on the failure of the licensee to so deliver the possession of the licensed premises, a landlord shall be entitled to recover possession of such premises from a licensee, on the expiry of the period of licence, by making an application to the Competent Authority.
+(2) Any licensee who does not deliver possession of the premises to the landlord on expiry of the period of licence and continues to be in possession of the licensed premises till he is dispossessed by the Competent Authority shall be liable to pay damages at double the rate of the licence fee or charge of the premises fixed under the agreement of licence.
+(3) The Competent Authority shall not entertain any claim by the licensee that the agreement of licence was intended to be a lease or that a tenancy was created thereby.
+
+---
+
+## CHAPTER: Chapter V - Provisions Regarding Essential Services and Receipts
+### SECTION: Section 29 - Landlord Not to Cut Off or Withhold Essential Supply or Service
+(1) No landlord either by himself or through any person acting or purporting to act on his behalf shall, without just or sufficient cause, cut off or withhold any essential supply or service enjoyed by the tenant in respect of the premises let to him.
+(2) A tenant in occupation of the premises may, if the landlord has contravened the provisions of sub-section (1), make an application to the Court for an order directing the landlord to restore such supply or service.
+(3) If the Court on inquiry finds that the tenant was in enjoyment of the essential supply or service and that it was cut off or withheld by the landlord without just or sufficient cause, the Court shall make an order directing the landlord to restore such supply or service within a specified period.
+(4) Any landlord who contravenes the provisions of sub-section (1) shall, on conviction, be punishable with imprisonment for a term which may extend to three months or with fine which may extend to one thousand rupees or with both.
+
+---
+
+## CHAPTER: Chapter VII - Miscellaneous Provisions
+### SECTION: Section 55 - Tenancy Agreement to Be in Writing and Registered
+(1) Notwithstanding anything contained in this Act or any other law for the time being in force, any agreement for a tenancy or leave and licence entered into between the landlord and the tenant or the licensee, as the case may be, after the commencement of this Act, shall be in writing and shall be registered under the Registration Act, 1908.
+(2) The responsibility of getting such agreement registered shall be on the landlord and in the absence of the written registered agreement, the contention of the tenant about the terms and conditions subject to which a premises have been given to him by the landlord on leave and licence or have been let to him, shall prevail, unless proved otherwise.
+(3) Any landlord who contravenes the provisions of this section shall, on conviction, be punished with imprisonment which may extend to three months or with fine not exceeding five thousand rupees or with both.
